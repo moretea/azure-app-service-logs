@@ -12,8 +12,8 @@ For usage, run the python file with --help.
 
 
 ## TUI screenshots
-![](/Users/maarten/prive/azure-app-service-logs/screenshots/browse.png)
-![](/Users/maarten/prive/azure-app-service-logs/screenshots/view_file.png)
+![](screenshots/browse.png)
+![](view_file.png)
 
 ## TODO
 * Turn into a Python library + installable executables
