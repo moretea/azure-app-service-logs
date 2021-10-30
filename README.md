@@ -13,7 +13,7 @@ For usage, run the python file with --help.
 
 ## TUI screenshots
 ![](screenshots/browse.png)
-![](view_file.png)
+![](screenshots/view_file.png)
 
 ## TODO
 * Turn into a Python library + installable executables
